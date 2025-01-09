@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sree2694&label=Profile%20views&color=0e75b6&style=flat" alt="sree2694" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sree2694" alt="sree2694" /></a> </p>
+
 
 - 🔭 I’m currently working on [CodeReacher](https://codereacher-2c0e3.web.app/)
 
@@ -35,4 +35,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sree2694&show_icons=true&locale=en" alt="sree2694" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sree2694&" alt="sree2694" /></p>
