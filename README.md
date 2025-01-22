@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [CodeReacher](https://codereacher-2c0e3.web.app/)
+- 🔭 My recent work on [CodeReacher](https://codereacher-2c0e3.web.app/)
 
 - 🌱 I’m currently learning **AngularJs, Typescript, Devops**
 
