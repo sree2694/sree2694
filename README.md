@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AngularJs, Typescript, Devops**
 
-- 👨‍💻 Click Here for my Portfolio [Portfolio](https://myportfolio-dusky-seven.vercel.app/)
+- 👨‍💻 Click Here for my [Portfolio](https://myportfolio-dusky-seven.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sreekanth.j26](https://medium.com/@sreekanth.j26)
 
