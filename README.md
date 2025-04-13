@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AngularJs, Typescript, Devops**
 
-- 👨‍💻 All of my projects are available at [https://sree2694.github.io/Portfolio/](https://sree2694.github.io/Portfolio/)
+- 👨‍💻 Click Here for my Portfolio [Portfolio](https://myportfolio-dusky-seven.vercel.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@sreekanth.j26](https://medium.com/@sreekanth.j26)
 
@@ -26,8 +26,11 @@
 <a href="https://medium.com/@sreekanth.j26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sreekanth.j26" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sreekanth_j26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sreekanth_j26" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@sreekanth.j26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sreekanth.j26" height="30" width="40" /></a>
-</p>
 <a href="https://leetcode.com/u/MfZs7Qhrxv/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.L2Jfuatqty2XAIUqYnr_pgHaHa?w=174&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7" alt="@sreekanth.j26" height="30" width="40" /></a>
+<a href="https://dev.to/codereacher_20b8a" target="blank"><img align="center" src="https://media2.dev.to/dynamic/image/quality=100/https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="@sreekanth.j26" height="30" width="40" /></a>
+<a href="https://hashnode.com/@CodeReacher2025" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/16342708?s=280&v=4" alt="@sreekanth.j26" height="30" width="40" /></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
