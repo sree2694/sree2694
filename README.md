@@ -15,6 +15,8 @@
 
 - 🔭 Click Here for my [Google Cloud Skills](https://www.cloudskillsboost.google/public_profiles/e8cba22f-ae91-46db-97cf-91edd17940b2)
 
+- - 🔭 Click Here for my [Microsoft AI Skills](https://learn.microsoft.com/en-us/users/sreekanthjonnakuti-3591/)
+
 - 📝 I regularly write articles on [https://medium.com/@sreekanth.j26](https://medium.com/@sreekanth.j26)
 
 - 💬 Ask me about **React, Flutter, Javascript, HTML5, Material UI, CSS3, Bootstrap, NodeJs, ExpressJs, MongoDB, Spring Boot, Java, MySQL, Firebase, UnitTesting**
